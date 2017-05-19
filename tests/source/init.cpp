@@ -1,4 +1,4 @@
-#include <Matrix.hpp>
+#include <Complex.hpp>
 #include <catch.hpp>
 
 SCENARIO ("test"){
