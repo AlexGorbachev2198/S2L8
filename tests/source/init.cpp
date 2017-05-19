@@ -1,5 +1,5 @@
-#include "complex.hpp"
-#include "catch.hpp"
+#include <Complex.hpp>
+#include <catch.hpp>
 
 
 SCENARIO("test +"){
